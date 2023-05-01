@@ -12,6 +12,28 @@ import java.util.Map;
 
 
 public class task_1 {
+    public static void main(String[] args) {
+
+        System.out.println(isCorrectParentheses("()")); // true
+        System.out.println(isCorrectParentheses("[](){}")); // true
+        System.out.println(isCorrectParentheses("[)")); // false
+        System.out.println(isCorrectParentheses("([{}()<>])")); // true
+        System.out.println(isCorrectParentheses("([)]")); // false
+        System.out.println(isCorrectParentheses("(")); // false
+        System.out.println(isCorrectParentheses("((")); // false
+    }
+
+
+    /**
+     * Определить, является ли последовательность скобочек корректной
+     * Скобочки могут быть следующих типов (){}[]<>
+     * () -> true
+     * [](){} -> true
+     * [) -> false
+     * ([{}()<>]) -> true
+     * ([)] -> false
+     * ( -> false
+     */
     static boolean isCorrectParentheses(String input) {
         Map<Character, Character> pairs = Map.of(
                 '(', ')',
@@ -45,17 +67,7 @@ public class task_1 {
                 }
             }
         }
+
         return stack.isEmpty();
     }
-    public static void main(String[] args) {
-
-        System.out.println(isCorrectParentheses("()")); // true
-        System.out.println(isCorrectParentheses("[](){}")); // true
-        System.out.println(isCorrectParentheses("[)")); // false
-        System.out.println(isCorrectParentheses("([{}()<>])")); // true
-        System.out.println(isCorrectParentheses("([)]")); // false
-        System.out.println(isCorrectParentheses("(")); // false
-        System.out.println(isCorrectParentheses("((")); // false
-
     }
-}

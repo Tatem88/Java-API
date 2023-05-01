@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a797dbd-7ac3-4177-a47c-92ab21e72b17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java/util/annotations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DZ_5/task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DZ_5/task_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DZ_1/calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DZ_1/calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DZ_1/primes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DZ_1/primes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DZ_1/triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DZ_1/triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DZ_2/task_0.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DZ_2/task_0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DZ_2/task_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DZ_2/task_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DZ_2/task_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DZ_2/task_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DZ_2/task_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DZ_2/task_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DZ_3/task_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DZ_3/task_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DZ_3/task_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DZ_3/task_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DZ_3/task_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DZ_3/task_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DZ_4/task_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DZ_4/task_1.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="2OSOPgQQWZccUyrP93qjK4gCQHi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Seminar" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Geekbrains\2023\Java\src\main\java" />
+      <recent name="D:\Geekbrains\2023\Java\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.task_1 (1)">
+    <configuration name="Prog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar.Prog" />
+      <module name="Java_GB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t" />
+      <module name="Java_GB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar.t_1" />
+      <module name="Java_GB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar.t_4" />
+      <module name="Java_GB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DZ_5.task_1" />
+      <module name="Java_GB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DZ_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task_1 (1)" />
+        <item itemvalue="Application.t" />
+        <item itemvalue="Application.Prog" />
+        <item itemvalue="Application.t_1" />
+        <item itemvalue="Application.t_4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a797dbd-7ac3-4177-a47c-92ab21e72b17" name="Changes" comment="" />
+      <created>1681550495953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681550495953</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_GB$triangle.ic" NAME="triangle Coverage Results" MODIFIED="1681564827272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
